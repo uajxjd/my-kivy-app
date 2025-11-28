@@ -1,0 +1,2 @@
+[console_scripts]
+fc3d = fc3d.cli:main
