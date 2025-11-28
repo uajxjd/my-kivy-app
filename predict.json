@@ -1,1 +1,25 @@
-{"best": "FC3D2025318期 340", "bai": [3, 2, 5, 9, 0, 6], "shi": [4, 2, 5, 9, 3, 6], "ge": [0, 2, 5, 9, 3, 6]}
+{
+  "title": "FC3D智能变体增强分析报告",
+  "gen_time": "2025-11-29 19:24:10",
+  "period": "2025312",
+  "main_pred": "610",
+  "avg_confidence": 0.115,
+  "position_hints": {
+    "百位": "123456",
+    "十位": "123456",
+    "个位": "123456"
+  },
+  "variants": [
+    {
+      "num": "002",
+      "tag": "cold_return",
+      "strategy": "冷号回归策略"
+    },
+    {
+      "num": "643",
+      "tag": "cluster_pattern",
+      "strategy": "聚类模式调整"
+    }
+  ],
+  "risk_notice": "分析仅供参考，理性购彩！"
+}
